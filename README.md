@@ -1,0 +1,1 @@
+# Android-Gionee-s5.5-Vendor-Tree-MT6592
